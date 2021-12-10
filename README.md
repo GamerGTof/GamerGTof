@@ -2,25 +2,30 @@
 
 CURRENTLY
 
-• Learning oop languages;
-• trying to get better at Java;
-• Creating an simple 2d game;
+• Looking for monetized small projects <br/>
 
 ALREADY
 
-• Used Unity game engine (cool / easy to use);
-• (tried) Unreal engine (painfull);
-• Used guis frameworks like: javaFX, swing/awt, wpf..;
-• Used spigot (great / easy to use);
+• Used Unity & Unreal game engine <br/>
+• Used guis frameworks like: javaFX, swing/awt, wpf/upf, gtk/wxWidgets... <br/>
+• Used spigot <br/>
 
 MY LANGUAGES
 
-• Java (wich i loves the most):
-• C# (cool for unity):
-• C++ (i still learning, its hard but powerfull):
+• Java <br/>
+• C# <br/>
+• Elm <br/>
+• html / css <br/>
+• JavaScript <br/>
+• TypeScript <br/>
+• C <br/> 
+• Rust <br/>
+• C++ <br/>
+• Haskell  <br/>
+• Kotlin <br/>
 
 ABOUT ME
 
-• nat: 🇧🇷 Brazilian 
-• yo: 16y
-• mid School 
+• nat: 🇧🇷 Brazilian <br/>
+• yo: 17y <br/>
+• mid School  <br/>
