@@ -28,4 +28,4 @@ ABOUT ME
 
 • nat: 🇧🇷 Brazilian <br/>
 • yo: 17y <br/>
-• mid School  <br/>
+
