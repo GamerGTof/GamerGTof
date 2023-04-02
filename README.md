@@ -1,31 +1,18 @@
-   👋 Hi, I’m @GamerGTof, Bruno.
+👋 Hi, I’m @GamerGTof, Bruno.
 
 CURRENTLY
-
-• Looking for monetized small projects <br/>
+• Leraning more. <br/>
 
 ALREADY
+• Used variety of frameworks, libs, api and engines.
 
-• Used Unity & Unreal game engine <br/>
-• Used guis frameworks like: javaFX, swing/awt, wpf/upf, gtk/wxWidgets... <br/>
-• Used spigot <br/>
-
-MY LANGUAGES
+MY MAIN LANGUAGES
 
 • Java <br/>
-• C# <br/>
-• Elm <br/>
-• html / css <br/>
-• JavaScript <br/>
-• TypeScript <br/>
-• C <br/> 
 • Rust <br/>
-• C++ <br/>
-• Haskell  <br/>
-• Kotlin <br/>
+• Js/Ts <br/>
 
 ABOUT ME
-
 • nat: 🇧🇷 Brazilian <br/>
-• yo: 17y <br/>
+• yo: 18y <br/>
 
